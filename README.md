@@ -13,7 +13,7 @@ This is a Lambda School project.
 ## How to use:
 ```python
 import pandas as pd # Pandas is required
-from helper_df import HelperDataFrame
+from lambdata.helper_df import HelperDataFrame
 
 data = [['tom', 10], ['nick', 15], ['juli', 14]] 
   
