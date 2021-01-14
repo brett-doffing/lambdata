@@ -18,6 +18,6 @@ setuptools.setup(
     install_requires=[
           'numpy',
           'pandas',
-    ],
+      ],
     python_requires='>=3.6',
 )
